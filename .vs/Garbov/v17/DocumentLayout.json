@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\mathi\\source\\repos\\Garbov\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC6C9E35-ACF1-4524-80B9-798C6BACAB1C}|Garbov.csproj|c:\\users\\mathi\\source\\repos\\garbov\\shooterbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC6C9E35-ACF1-4524-80B9-798C6BACAB1C}|Garbov.csproj|solutionrelative:shooterbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC6C9E35-ACF1-4524-80B9-798C6BACAB1C}|Garbov.csproj|c:\\users\\mathi\\source\\repos\\garbov\\soldierbarrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6C9E35-ACF1-4524-80B9-798C6BACAB1C}|Garbov.csproj|solutionrelative:soldierbarrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC6C9E35-ACF1-4524-80B9-798C6BACAB1C}|Garbov.csproj|c:\\users\\mathi\\source\\repos\\garbov\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC6C9E35-ACF1-4524-80B9-798C6BACAB1C}|Garbov.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC6C9E35-ACF1-4524-80B9-798C6BACAB1C}|Garbov.csproj|c:\\users\\mathi\\source\\repos\\garbov\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC6C9E35-ACF1-4524-80B9-798C6BACAB1C}|Garbov.csproj|solutionrelative:shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC6C9E35-ACF1-4524-80B9-798C6BACAB1C}|Garbov.csproj|c:\\users\\mathi\\source\\repos\\garbov\\buildingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6C9E35-ACF1-4524-80B9-798C6BACAB1C}|Garbov.csproj|solutionrelative:buildingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6C9E35-ACF1-4524-80B9-798C6BACAB1C}|Garbov.csproj|c:\\users\\mathi\\source\\repos\\garbov\\lists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6C9E35-ACF1-4524-80B9-798C6BACAB1C}|Garbov.csproj|solutionrelative:lists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC6C9E35-ACF1-4524-80B9-798C6BACAB1C}|Garbov.csproj|c:\\users\\mathi\\source\\repos\\garbov\\contentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC6C9E35-ACF1-4524-80B9-798C6BACAB1C}|Garbov.csproj|solutionrelative:contentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6C9E35-ACF1-4524-80B9-798C6BACAB1C}|Garbov.csproj|c:\\users\\mathi\\source\\repos\\garbov\\buildingselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6C9E35-ACF1-4524-80B9-798C6BACAB1C}|Garbov.csproj|solutionrelative:buildingselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6C9E35-ACF1-4524-80B9-798C6BACAB1C}|Garbov.csproj|c:\\users\\mathi\\source\\repos\\garbov\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6C9E35-ACF1-4524-80B9-798C6BACAB1C}|Garbov.csproj|solutionrelative:shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6C9E35-ACF1-4524-80B9-798C6BACAB1C}|Garbov.csproj|c:\\users\\mathi\\source\\repos\\garbov\\garbov.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FC6C9E35-ACF1-4524-80B9-798C6BACAB1C}|Garbov.csproj|solutionrelative:garbov.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6C9E35-ACF1-4524-80B9-798C6BACAB1C}|Garbov.csproj|c:\\users\\mathi\\source\\repos\\garbov\\shooterbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6C9E35-ACF1-4524-80B9-798C6BACAB1C}|Garbov.csproj|solutionrelative:shooterbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6C9E35-ACF1-4524-80B9-798C6BACAB1C}|Garbov.csproj|c:\\users\\mathi\\source\\repos\\garbov\\dialoguebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6C9E35-ACF1-4524-80B9-798C6BACAB1C}|Garbov.csproj|solutionrelative:dialoguebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +50,26 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SoldierBarrack.cs",
+              "DocumentMoniker": "C:\\Users\\mathi\\source\\repos\\Garbov\\SoldierBarrack.cs",
+              "RelativeDocumentMoniker": "SoldierBarrack.cs",
+              "ToolTip": "C:\\Users\\mathi\\source\\repos\\Garbov\\SoldierBarrack.cs",
+              "RelativeToolTip": "SoldierBarrack.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:40:58.417Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
@@ -38,39 +80,104 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Lists.cs",
+              "DocumentMoniker": "C:\\Users\\mathi\\source\\repos\\Garbov\\Lists.cs",
+              "RelativeDocumentMoniker": "Lists.cs",
+              "ToolTip": "C:\\Users\\mathi\\source\\repos\\Garbov\\Lists.cs",
+              "RelativeToolTip": "Lists.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T16:35:16.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BuildingSelector.cs",
+              "DocumentMoniker": "C:\\Users\\mathi\\source\\repos\\Garbov\\BuildingSelector.cs",
+              "RelativeDocumentMoniker": "BuildingSelector.cs",
+              "ToolTip": "C:\\Users\\mathi\\source\\repos\\Garbov\\BuildingSelector.cs",
+              "RelativeToolTip": "BuildingSelector.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAswBoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T16:02:10.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BuildingManager.cs",
+              "DocumentMoniker": "C:\\Users\\mathi\\source\\repos\\Garbov\\BuildingManager.cs",
+              "RelativeDocumentMoniker": "BuildingManager.cs",
+              "ToolTip": "C:\\Users\\mathi\\source\\repos\\Garbov\\BuildingManager.cs",
+              "RelativeToolTip": "BuildingManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:44:22.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Garbov.csproj",
+              "DocumentMoniker": "C:\\Users\\mathi\\source\\repos\\Garbov\\Garbov.csproj",
+              "RelativeDocumentMoniker": "Garbov.csproj",
+              "ToolTip": "C:\\Users\\mathi\\source\\repos\\Garbov\\Garbov.csproj",
+              "RelativeToolTip": "Garbov.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-31T13:32:30.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DialogueBox.cs",
+              "DocumentMoniker": "C:\\Users\\mathi\\source\\repos\\Garbov\\DialogueBox.cs",
+              "RelativeDocumentMoniker": "DialogueBox.cs",
+              "ToolTip": "C:\\Users\\mathi\\source\\repos\\Garbov\\DialogueBox.cs",
+              "RelativeToolTip": "DialogueBox.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwB8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:30:45.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ShooterBullet.cs",
               "DocumentMoniker": "C:\\Users\\mathi\\source\\repos\\Garbov\\ShooterBullet.cs",
               "RelativeDocumentMoniker": "ShooterBullet.cs",
               "ToolTip": "C:\\Users\\mathi\\source\\repos\\Garbov\\ShooterBullet.cs",
               "RelativeToolTip": "ShooterBullet.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA4AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T13:20:22.227Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Shooter.cs",
               "DocumentMoniker": "C:\\Users\\mathi\\source\\repos\\Garbov\\Shooter.cs",
               "RelativeDocumentMoniker": "Shooter.cs",
               "ToolTip": "C:\\Users\\mathi\\source\\repos\\Garbov\\Shooter.cs",
               "RelativeToolTip": "Shooter.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAQwCgAAAAnAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAIA+wBMAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-28T15:04:40.515Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ContentManager.cs",
               "DocumentMoniker": "C:\\Users\\mathi\\source\\repos\\Garbov\\ContentManager.cs",
               "RelativeDocumentMoniker": "ContentManager.cs",
               "ToolTip": "C:\\Users\\mathi\\source\\repos\\Garbov\\ContentManager.cs",
               "RelativeToolTip": "ContentManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAABRAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-28T13:41:56.208Z",
               "EditorCaption": ""
@@ -83,7 +190,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\mathi\\source\\repos\\Garbov\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAowFIAAAA2AAAA",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAAAHoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-23T15:54:06.888Z",
               "EditorCaption": ""

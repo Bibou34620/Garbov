@@ -25,3 +25,4 @@ C:\Users\mathi\source\repos\Garbov\obj\Debug\net6.0\refint\Garbov.dll
 C:\Users\mathi\source\repos\Garbov\obj\Debug\net6.0\Garbov.pdb
 C:\Users\mathi\source\repos\Garbov\obj\Debug\net6.0\Garbov.genruntimeconfig.cache
 C:\Users\mathi\source\repos\Garbov\obj\Debug\net6.0\ref\Garbov.dll
+C:\Users\mathi\source\repos\Garbov\obj\Debug\net6.0\Garbov.sourcelink.json

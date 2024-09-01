@@ -22,6 +22,12 @@ public class Program
         Vector2 previousMousePosition = Raylib.GetMousePosition();
         Vector2 currentMousePosition;
 
+        Lists lists = new Lists();
+
+        DialogueBox dialogueBox = new DialogueBox(new Vector2(480, 700));
+        BuildingManager buildingManager = new BuildingManager();
+        BuildingSelector buildingSelector = new BuildingSelector();
+
         ContentManager.LoadTextures();
 
         Shooter shooter = new Shooter(new Vector2(300, 300));
@@ -80,11 +86,20 @@ public class Program
 
                 else
                 {
+                    //dialogueBox.ChangeDialogue("Select a soldier to continue");
                     camera.offset = new Vector2(0, 0);
                     camera.target = cameraVector;
+
+                    foreach (ShooterBullet sb in shooterK.shooterBullets)
+                    {
+                        if (sb.cameraFocus)
+                        {
+                            camera.offset = new Vector2(900, 600);
+                            camera.target = sb.position;
+                        }
+                    }
                 }
             }
-
 
             camera.zoom = 0.8f;
 
@@ -94,12 +109,27 @@ public class Program
             Raylib.ClearBackground(Raylib.LIGHTGRAY);
             Raylib.BeginMode2D(camera);
             Raylib.DrawTexture(texture, 0, 0, Raylib.WHITE);
-            Raylib.DrawText(Raylib.GetFPS().ToString(), 300, 300, 60, Raylib.RED);
+            Raylib.DrawText(Raylib.GetFPS().ToString(), 1000, 300, 60, Raylib.RED);
 
             shooter.Update();
             shooter.Draw();
 
+            buildingManager.Update();
+
+            foreach (SoldierBarrack soldierBarrack in buildingManager.lists.soldierBarracks)
+            {
+                soldierBarrack.Update();
+                soldierBarrack.Draw();
+            }
+
+
             Raylib.EndMode2D();
+            dialogueBox.Update();
+            dialogueBox.Draw();
+
+            buildingSelector.Update();
+            buildingSelector.Draw();
+
             Raylib.EndDrawing();
         }
 

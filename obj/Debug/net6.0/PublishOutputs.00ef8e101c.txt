@@ -1,0 +1,16 @@
+C:\Users\mathi\source\repos\Garbov\bin\Debug\net6.0\publish\Garbov.exe
+C:\Users\mathi\source\repos\Garbov\bin\Debug\net6.0\publish\Garbov.dll
+C:\Users\mathi\source\repos\Garbov\bin\Debug\net6.0\publish\Garbov.deps.json
+C:\Users\mathi\source\repos\Garbov\bin\Debug\net6.0\publish\Garbov.runtimeconfig.json
+C:\Users\mathi\source\repos\Garbov\bin\Debug\net6.0\publish\Garbov.pdb
+C:\Users\mathi\source\repos\Garbov\bin\Debug\net6.0\publish\Microsoft.Toolkit.HighPerformance.dll
+C:\Users\mathi\source\repos\Garbov\bin\Debug\net6.0\publish\Raylib-CsLo.dll
+C:\Users\mathi\source\repos\Garbov\bin\Debug\net6.0\publish\runtimes\linux-x64\native\libraylib.so
+C:\Users\mathi\source\repos\Garbov\bin\Debug\net6.0\publish\runtimes\linux-x64\native\readme.md
+C:\Users\mathi\source\repos\Garbov\bin\Debug\net6.0\publish\runtimes\osx-arm64\native\libraylib.dylib
+C:\Users\mathi\source\repos\Garbov\bin\Debug\net6.0\publish\runtimes\osx-arm64\native\readme.md
+C:\Users\mathi\source\repos\Garbov\bin\Debug\net6.0\publish\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\mathi\source\repos\Garbov\bin\Debug\net6.0\publish\runtimes\osx-x64\native\readme.md
+C:\Users\mathi\source\repos\Garbov\bin\Debug\net6.0\publish\runtimes\win-x64\native\raylib.dll
+C:\Users\mathi\source\repos\Garbov\bin\Debug\net6.0\publish\runtimes\win-x64\native\raylib.pdb
+C:\Users\mathi\source\repos\Garbov\bin\Debug\net6.0\publish\runtimes\win-x86\native\needs-pr.txt

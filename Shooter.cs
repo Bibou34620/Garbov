@@ -8,6 +8,7 @@ namespace Garbov
     {
         public Vector2 position;
         Vector2 previousPosition;
+        Vector2 direction;
         Rectangle shooterRect;
         public bool isSelected = false;
         bool isMoving = false;
@@ -15,6 +16,8 @@ namespace Garbov
         float updateTimer;
         Color pixelColor;
         Image mapImage;
+
+        public List<ShooterBullet> shooterBullets = new List<ShooterBullet>();
 
         public Shooter(Vector2 position)
         {
@@ -36,11 +39,18 @@ namespace Garbov
                 previousPosition = position;
                 Vector2 newPosition = position;
 
+                if (Raylib.IsMouseButtonPressed(MouseButton.MOUSE_BUTTON_RIGHT))
+                {
+                    direction = ContentManager.mouseToMapWorld - position;
+                    
+                    shooterBullets.Add(new ShooterBullet(position, direction));
+                    isSelected = false;
+                }
+
                 if (Raylib.IsKeyPressed(KeyboardKey.KEY_ESCAPE))
                 {
                     isSelected = false;
                 }
-
 
                 if (Raylib.IsKeyDown(KeyboardKey.KEY_LEFT))
                 {
@@ -83,6 +93,11 @@ namespace Garbov
                         isSelected = true;
                 }
             }
+
+            foreach (ShooterBullet shooterBullet in shooterBullets)
+            {
+                shooterBullet.Update();
+            }
         }
 
         public void Draw()
@@ -96,6 +111,11 @@ namespace Garbov
             Raylib.DrawRectanglePro(shooterRect, new Vector2(32, 32), angle, Raylib.RED);
 
             Raylib.DrawText(angle.ToString(), 500, 0, 20, Raylib.RED);
+
+            foreach (ShooterBullet shooterBullet in shooterBullets)
+            {
+                shooterBullet.Draw();
+            }
         }
     }
 }
